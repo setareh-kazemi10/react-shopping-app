@@ -6,11 +6,17 @@ A modern and responsive fruit shopping application built with **React**. Users c
 
 🔗 https://your-project-name.netlify.app
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-> Add a screenshot of your application here.
+### Home Page
+![Home](public/screenshots/home-page.png)
 
-![App Screenshot](./src/assets/images/screenshot.png)
+### Shop Page
+![Shop](public/screenshots/shop-page.png)
+
+
+### Cart Page
+![Cart](public/screenshots/cart-page.png)
 
 ---
 
@@ -19,8 +25,6 @@ A modern and responsive fruit shopping application built with **React**. Users c
 - 🛒 Shopping Cart
 - 🍎 Browse Fresh Fruits
 - 📦 Product Details
-- 🔍 Search Products
-- 📱 Responsive Design
 - ⚡ Fast Performance with Vite
 - 🔄 Dynamic Routing with React Router
 - 💾 Global State Management using Context API
@@ -97,8 +101,4 @@ https://your-project-name.netlify.app
 GitHub:
 https://github.com/setareh-kazemi10
 
----
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
