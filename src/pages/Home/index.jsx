@@ -7,7 +7,7 @@ import Hero from "./Hero";
 import Features from "./Features";
 import ProductTitle from "./ProductTitle";
 import CountDown from "./CountDown";
-import AdverTisement from "./advertisement";
+import AdverTisement from "./AdverTisement";
 import ShopBanner from "./ShopBanner";
 import LatestNews from "./LatestNews";
 import { productList } from "../../api/ProductApi";
