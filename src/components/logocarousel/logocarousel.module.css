@@ -1,0 +1,43 @@
+.logoCarouselSection {
+  background-color: #f7f7f7;
+  padding: 50px 0;
+}
+.carouselWrapper {
+  overflow: hidden;
+  width: 880px;
+  margin: 0 auto;
+}
+.carouselTrack {
+  display: flex;
+  gap: 15px;
+  position: relative;
+  animation: slide 20s linear infinite;
+}
+.carouselTrack::after {
+  content: "";
+  display: flex;
+  width: 100%;
+}
+.carouselTrack .singleLogoItem {
+  min-width: 220px;
+  display: flex;
+  flex: 0 0 25%;
+  justify-content: center;
+  align-items: center;
+  transition: 0.3s;
+}
+.singleLogoItem img {
+  max-width: 180px;
+}
+.singleLogoItem:hover {
+  opacity: 0.7;
+}
+@keyframes slide {
+  0% {
+    transform: translatex(0);
+  }
+
+  100% {
+    transform: translatex(-50%);
+  }
+}

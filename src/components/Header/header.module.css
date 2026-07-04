@@ -1,0 +1,84 @@
+.mainMenu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  }
+.mainMenu li:hover > a {
+  color: #F28123;
+}
+.subMenuLink {
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+.menuItem {
+  display: inline-block;
+}
+.subMenuItem {
+  display: block;
+}
+.subMenuLink {
+  color: #555;
+  padding: 8px;
+  font-size: 13px;
+  font-weight: 600;
+}
+.menuLink {
+  color: #fff;
+  font-weight: 700;
+  display: block;
+  padding: 15px;
+}
+.menuItemParent {
+  position: relative;
+}
+.subMenu {
+  position: absolute;
+  background-color: #fff;
+  width: 220px;
+  padding: 15px 15px;
+  margin: 0;
+  left: 0;
+  top: 50px;
+  border-radius: 3px;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-box-shadow: 0 0 20px #555555;
+  box-shadow: 0 0 20px #555555;
+}
+.subMenuItem {
+  display: block;
+  text-align: left;
+}
+.subMenuLink {
+  color: #555;
+  font-weight: 600;
+  padding: 7px 10px;
+  font-size: 13px;
+}
+.mainMenu >  li:hover .subMenu{
+ opacity: 1;
+  visibility: visible;
+}
+.mainMenu li:last-child a {
+  display: inline-block;
+}
+.mainMenu > li:last-child {
+  float: right;
+}
+ul.subMenu li:last-child {
+  float: none !important;
+}
+.mainMenu  li.currentListItem > a {
+  color: #F28123;
+}
+.headerIcons a {
+  color: #fff;
+  display: inline-block;
+  padding: 10px;
+}
+
+
