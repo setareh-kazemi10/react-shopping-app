@@ -4,7 +4,7 @@ A modern and responsive fruit shopping application built with **React**. Users c
 
 ## 🚀 Live Demo
 
-🔗 https://your-project-name.netlify.app
+🔗 https://react-shooping-project-app.netlify.app/contact
 
 ## 📸 Screenshots
 
@@ -92,7 +92,7 @@ This project is deployed on **Netlify**.
 
 Live Website:
 
-https://your-project-name.netlify.app
+https://react-shooping-project-app.netlify.app/contact
 
 ---
 
