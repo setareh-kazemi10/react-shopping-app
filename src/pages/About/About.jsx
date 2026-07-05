@@ -5,7 +5,7 @@ import Avatar from "../Home/Avatar";
 import { faShippingFast, faMoneyBillAlt, faBriefcase, faSyncAlt } from "@fortawesome/free-solid-svg-icons";
 import { faFacebook, faTwitter, faInstagram } from "@fortawesome/free-brands-svg-icons";
 import Feature from "./Feature";
-import ShopBanner from "./shopBanner";
+import ShopBanner from "./ShopBanner";
 import Teams from "./Teams";
 import Breadcrumb from "./Breadcrumb";
 import Searchbar from "./Searchbar";

@@ -23,7 +23,7 @@ const Index = () => {
 	const [minute, setMinute] = useState(0);
 	const [second, setSecond] = useState(0);
 
-	const datePast = new Date("2026-05-26T12:01");
+	const datePast = new Date("2027-05-26T12:01");
 	useEffect(() => {
 		let interVal = setInterval(() => {
 			const date = new Date();
