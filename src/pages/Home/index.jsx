@@ -1,6 +1,6 @@
 import LogoCarousel from "../../components/logocarousel/LogoCarousel";
 import Footer from "../../components/footer/Footer";
-import Copyright from "../../components/footer/copyright/copyright";
+import Copyright from "../../components/footer/copyright/Copyright";
 import { useEffect, useState } from "react";
 import Search from "./Search";
 import Hero from "./Hero";
