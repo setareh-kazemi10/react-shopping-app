@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import Copyright from "../../../components/footer/copyright/copyright";
+import Copyright from "../../../components/footer/copyright/Copyright";
 import Footer from "../../../components/footer/Footer";
 import LogoCarousel from "../../../components/logocarousel/LogoCarousel";
 import { newsList } from "../../../api/NewsApi";

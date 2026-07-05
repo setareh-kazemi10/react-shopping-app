@@ -1,5 +1,5 @@
 
-import Copyright from "../../components/footer/copyright/copyright";
+import Copyright from "../../components/footer/copyright/Copyright";
 import Footer from "../../components/footer/Footer";
 import Loader from "../../components/Loader/Loader";
 import LogoCarousel from "../../components/logocarousel/LogoCarousel";

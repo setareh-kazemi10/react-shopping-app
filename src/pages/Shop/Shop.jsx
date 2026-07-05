@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import LogoCarousel from "../../components/logocarousel/LogoCarousel";
 import Footer from "../../components/footer/Footer";
-import Copyright from "../../components/footer/copyright/copyright";
+import Copyright from "../../components/footer/copyright/Copyright";
 import { productList } from "../../api/ProductApi";
 import { useContext, useEffect, useState } from "react";
 import { CartContext } from "../../context/CartContext";

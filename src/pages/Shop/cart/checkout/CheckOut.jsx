@@ -1,5 +1,5 @@
 import { useContext, useState } from "react";
-import Copyright from "../../../../components/footer/copyright/copyright";
+import Copyright from "../../../../components/footer/copyright/Copyright";
 import Footer from "../../../../components/footer/Footer";
 import Header from "../../../../components/Header/Header";
 import Logo from "../../../../components/Logo/Logo";

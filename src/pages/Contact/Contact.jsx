@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Copyright from "../../components/footer/copyright/copyright";
+import Copyright from "../../components/footer/copyright/Copyright";
 import Footer from "../../components/footer/Footer";
 import { faAddressBook, faClock, faMap } from "@fortawesome/free-solid-svg-icons";
 import BreadcrumbSection from "./BreadcrumbSection";

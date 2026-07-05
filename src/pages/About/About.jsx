@@ -1,4 +1,4 @@
-import Copyright from "../../components/footer/copyright/copyright";
+import Copyright from "../../components/footer/copyright/Copyright";
 import Footer from "../../components/footer/Footer";
 import LogoCarousel from "../../components/logocarousel/LogoCarousel";
 import Avatar from "../Home/Avatar";
