@@ -3,9 +3,7 @@
 A modern and responsive fruit shopping application built with **React**. Users can browse fresh fruits, view product details, add items to the shopping cart, and enjoy a clean and user-friendly shopping experience.
 
 ## 🚀 Live Demo
-
-🔗 https://react-shooping-project-app.netlify.app/contact
-
+🔗https://react-shopping-project-app.netlify.app/
 ## 📸 Screenshots
 
 ### Home Page
@@ -92,7 +90,7 @@ This project is deployed on **Netlify**.
 
 Live Website:
 
-https://react-shooping-project-app.netlify.app/contact
+https://react-shopping-project-app.netlify.app/
 
 ---
 
